@@ -1,0 +1,11 @@
+# Ignore all file object dan executable
+*.o
+*.out
+*.exe
+
+# Ignore default gcc output
+a.out
+
+# build
+/build/
+
